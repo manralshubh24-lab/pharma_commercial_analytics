@@ -1,7 +1,4 @@
-Pharma Commercial Analytics System
-
-End-to-end analytics pipeline built on synthetic Indian pharma 
-distribution data using MySQL, Power BI, and Excel.
+End-to-end pharmaceutical commercial analytics project using SQL, Power BI, DAX, and Excel to analyze sales performance, inventory risk, channel effectiveness, and target achievement.
 
  Tools Used
 - MySQL — database and query layer
